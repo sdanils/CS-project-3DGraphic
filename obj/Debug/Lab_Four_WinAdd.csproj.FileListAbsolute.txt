@@ -1,0 +1,14 @@
+C:\Users\banil\source\repos\Lab_Four_WinAdd\Lab_Four_WinAdd\bin\Debug\Lab_Four_WinAdd.exe.config
+C:\Users\banil\source\repos\Lab_Four_WinAdd\Lab_Four_WinAdd\bin\Debug\Lab_Four_WinAdd.exe
+C:\Users\banil\source\repos\Lab_Four_WinAdd\Lab_Four_WinAdd\bin\Debug\Lab_Four_WinAdd.pdb
+C:\Users\banil\source\repos\Lab_Four_WinAdd\Lab_Four_WinAdd\obj\Debug\Lab_Four_WinAdd.csproj.AssemblyReference.cache
+C:\Users\banil\source\repos\Lab_Four_WinAdd\Lab_Four_WinAdd\obj\Debug\Lab_Four_WinAdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\banil\source\repos\Lab_Four_WinAdd\Lab_Four_WinAdd\obj\Debug\Lab_Four_WinAdd.Properties.Resources.resources
+C:\Users\banil\source\repos\Lab_Four_WinAdd\Lab_Four_WinAdd\obj\Debug\Lab_Four_WinAdd.csproj.GenerateResource.cache
+C:\Users\banil\source\repos\Lab_Four_WinAdd\Lab_Four_WinAdd\obj\Debug\Lab_Four_WinAdd.csproj.CoreCompileInputs.cache
+C:\Users\banil\source\repos\Lab_Four_WinAdd\Lab_Four_WinAdd\obj\Debug\Lab_Four_WinAdd.exe
+C:\Users\banil\source\repos\Lab_Four_WinAdd\Lab_Four_WinAdd\obj\Debug\Lab_Four_WinAdd.pdb
+C:\Users\banil\source\repos\Lab_Four_WinAdd\Lab_Four_WinAdd\obj\Debug\Lab_Four_WinAdd.GraphicsForm.resources
+C:\Users\banil\source\repos\Lab_Four_WinAdd\Lab_Four_WinAdd\bin\Debug\UserControl3DSecond.dll
+C:\Users\banil\source\repos\Lab_Four_WinAdd\Lab_Four_WinAdd\bin\Debug\UserControl3DSecond.pdb
+C:\Users\banil\source\repos\Lab_Four_WinAdd\Lab_Four_WinAdd\obj\Debug\Lab_Four_WinAdd.csproj.CopyComplete

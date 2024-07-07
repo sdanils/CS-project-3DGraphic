@@ -1,1 +1,1 @@
-# CS-project-3DGraphic
+# CS-project-3DGraphics
